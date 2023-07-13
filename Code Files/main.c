@@ -1,8 +1,8 @@
 /*
     Project Title: Phonebook Management System 
     Language: C 
-    GitHub Repository: https://github.com/Alkaison/Phonebook-Management-System 
-    BSc IT Course => Project for Semester-1  
+    GitHub Repository: https://github.com/SAJEED006/File-structures-mini-project
+    BE in ISE=> Project for Semester-6  
     Concepts: File Handling, Struct, Define, etc. 
 */
 #include<stdio.h>  // almost everything 
